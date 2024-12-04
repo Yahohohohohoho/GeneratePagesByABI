@@ -13,6 +13,7 @@
     "@rainbow-me/rainbowkit": "^2.2.1",
     "@tanstack/react-query": "^5.62.2",
     "antd": "^5.22.3",
+    "ethers": "^6.13.4",
     "next": "14.2.19",
     "react": "^18",
     "react-dom": "^18",
